@@ -1,8 +1,8 @@
-# Files explainaion
-Our trail includes 20 CFS patietns and 20 healthy controls.
+# Files explaination
+Our trial includes 20 CFS patietns and 20 healthy controls.
 
 ### DPABISurf_Schaefer2018_400_Tian2020_54_Info
-This is the 400 ROIs information in Schaefer template provided by DPABISurf.
+This is the 400 ROIs information of Schaefer template provided by DPABISurf.
 ### Features_ROI_60_info
 This is the information about 60 features we selected from the 160000 ROIs.
 ### Features_ROI_60_OriginalData
